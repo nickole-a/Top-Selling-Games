@@ -1,0 +1,13 @@
+## Changelog for cleaning process on the Top Selling Games dataset
+
+#### Imported data set into Google Sheets for cleaning
+
+#### Changed format for the "Sales" column to reflect currecny in $USD
+
+#### Changed format for the "Initial Release Date" column to reflect date in mm/dd/yyy format
+
+#### Renamed all columns to remove the "(s)" in Platform and Developer header lines
+
+#### Added header line "Rank" in column A
+
+#### renumbered all entries to reflect accurate rank, top entry was originally rank 0. Now data set ranks from 1 - 51. 
